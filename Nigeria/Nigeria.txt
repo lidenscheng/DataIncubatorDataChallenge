@@ -1,0 +1,449 @@
+﻿Country Name	Series Name	Time	Value
+Nigeria	Birth rate, crude (per 1,000 people)	1960	46.26
+Nigeria	Birth rate, crude (per 1,000 people)	1961	46.206
+Nigeria	Birth rate, crude (per 1,000 people)	1962	46.128
+Nigeria	Birth rate, crude (per 1,000 people)	1963	46.031
+Nigeria	Birth rate, crude (per 1,000 people)	1964	45.927
+Nigeria	Birth rate, crude (per 1,000 people)	1965	45.839
+Nigeria	Birth rate, crude (per 1,000 people)	1966	45.792
+Nigeria	Birth rate, crude (per 1,000 people)	1967	45.803
+Nigeria	Birth rate, crude (per 1,000 people)	1968	45.878
+Nigeria	Birth rate, crude (per 1,000 people)	1969	46.014
+Nigeria	Birth rate, crude (per 1,000 people)	1970	46.2
+Nigeria	Birth rate, crude (per 1,000 people)	1971	46.418
+Nigeria	Birth rate, crude (per 1,000 people)	1972	46.638
+Nigeria	Birth rate, crude (per 1,000 people)	1973	46.835
+Nigeria	Birth rate, crude (per 1,000 people)	1974	46.991
+Nigeria	Birth rate, crude (per 1,000 people)	1975	47.093
+Nigeria	Birth rate, crude (per 1,000 people)	1976	47.134
+Nigeria	Birth rate, crude (per 1,000 people)	1977	47.12
+Nigeria	Birth rate, crude (per 1,000 people)	1978	47.057
+Nigeria	Birth rate, crude (per 1,000 people)	1979	46.948
+Nigeria	Birth rate, crude (per 1,000 people)	1980	46.793
+Nigeria	Birth rate, crude (per 1,000 people)	1981	46.593
+Nigeria	Birth rate, crude (per 1,000 people)	1982	46.356
+Nigeria	Birth rate, crude (per 1,000 people)	1983	46.092
+Nigeria	Birth rate, crude (per 1,000 people)	1984	45.809
+Nigeria	Birth rate, crude (per 1,000 people)	1985	45.516
+Nigeria	Birth rate, crude (per 1,000 people)	1986	45.218
+Nigeria	Birth rate, crude (per 1,000 people)	1987	44.92
+Nigeria	Birth rate, crude (per 1,000 people)	1988	44.63
+Nigeria	Birth rate, crude (per 1,000 people)	1989	44.354
+Nigeria	Birth rate, crude (per 1,000 people)	1990	44.101
+Nigeria	Birth rate, crude (per 1,000 people)	1991	43.879
+Nigeria	Birth rate, crude (per 1,000 people)	1992	43.686
+Nigeria	Birth rate, crude (per 1,000 people)	1993	43.521
+Nigeria	Birth rate, crude (per 1,000 people)	1994	43.384
+Nigeria	Birth rate, crude (per 1,000 people)	1995	43.275
+Nigeria	Birth rate, crude (per 1,000 people)	1996	43.192
+Nigeria	Birth rate, crude (per 1,000 people)	1997	43.129
+Nigeria	Birth rate, crude (per 1,000 people)	1998	43.076
+Nigeria	Birth rate, crude (per 1,000 people)	1999	43.024
+Nigeria	Birth rate, crude (per 1,000 people)	2000	42.965
+Nigeria	Birth rate, crude (per 1,000 people)	2001	42.889
+Nigeria	Birth rate, crude (per 1,000 people)	2002	42.791
+Nigeria	Birth rate, crude (per 1,000 people)	2003	42.666
+Nigeria	Birth rate, crude (per 1,000 people)	2004	42.512
+Nigeria	Birth rate, crude (per 1,000 people)	2005	42.329
+Nigeria	Birth rate, crude (per 1,000 people)	2006	42.123
+Nigeria	Birth rate, crude (per 1,000 people)	2007	41.9
+Nigeria	Birth rate, crude (per 1,000 people)	2008	41.663
+Nigeria	Birth rate, crude (per 1,000 people)	2009	41.408
+Nigeria	Birth rate, crude (per 1,000 people)	2010	41.129
+Nigeria	Birth rate, crude (per 1,000 people)	2011	40.811
+Nigeria	Birth rate, crude (per 1,000 people)	2012	40.45
+Nigeria	Birth rate, crude (per 1,000 people)	2013	40.045
+Nigeria	Birth rate, crude (per 1,000 people)	2014	39.6
+Nigeria	Birth rate, crude (per 1,000 people)	2015	NA
+Nigeria	Fertility rate, total (births per woman)	1960	6.354
+Nigeria	Fertility rate, total (births per woman)	1961	6.351
+Nigeria	Fertility rate, total (births per woman)	1962	6.346
+Nigeria	Fertility rate, total (births per woman)	1963	6.341
+Nigeria	Fertility rate, total (births per woman)	1964	6.336
+Nigeria	Fertility rate, total (births per woman)	1965	6.335
+Nigeria	Fertility rate, total (births per woman)	1966	6.342
+Nigeria	Fertility rate, total (births per woman)	1967	6.359
+Nigeria	Fertility rate, total (births per woman)	1968	6.387
+Nigeria	Fertility rate, total (births per woman)	1969	6.425
+Nigeria	Fertility rate, total (births per woman)	1970	6.471
+Nigeria	Fertility rate, total (births per woman)	1971	6.522
+Nigeria	Fertility rate, total (births per woman)	1972	6.575
+Nigeria	Fertility rate, total (births per woman)	1973	6.625
+Nigeria	Fertility rate, total (births per woman)	1974	6.669
+Nigeria	Fertility rate, total (births per woman)	1975	6.706
+Nigeria	Fertility rate, total (births per woman)	1976	6.735
+Nigeria	Fertility rate, total (births per woman)	1977	6.757
+Nigeria	Fertility rate, total (births per woman)	1978	6.772
+Nigeria	Fertility rate, total (births per woman)	1979	6.781
+Nigeria	Fertility rate, total (births per woman)	1980	6.783
+Nigeria	Fertility rate, total (births per woman)	1981	6.779
+Nigeria	Fertility rate, total (births per woman)	1982	6.767
+Nigeria	Fertility rate, total (births per woman)	1983	6.749
+Nigeria	Fertility rate, total (births per woman)	1984	6.726
+Nigeria	Fertility rate, total (births per woman)	1985	6.698
+Nigeria	Fertility rate, total (births per woman)	1986	6.664
+Nigeria	Fertility rate, total (births per woman)	1987	6.625
+Nigeria	Fertility rate, total (births per woman)	1988	6.582
+Nigeria	Fertility rate, total (births per woman)	1989	6.537
+Nigeria	Fertility rate, total (births per woman)	1990	6.49
+Nigeria	Fertility rate, total (births per woman)	1991	6.443
+Nigeria	Fertility rate, total (births per woman)	1992	6.395
+Nigeria	Fertility rate, total (births per woman)	1993	6.348
+Nigeria	Fertility rate, total (births per woman)	1994	6.303
+Nigeria	Fertility rate, total (births per woman)	1995	6.262
+Nigeria	Fertility rate, total (births per woman)	1996	6.224
+Nigeria	Fertility rate, total (births per woman)	1997	6.19
+Nigeria	Fertility rate, total (births per woman)	1998	6.159
+Nigeria	Fertility rate, total (births per woman)	1999	6.131
+Nigeria	Fertility rate, total (births per woman)	2000	6.106
+Nigeria	Fertility rate, total (births per woman)	2001	6.083
+Nigeria	Fertility rate, total (births per woman)	2002	6.06
+Nigeria	Fertility rate, total (births per woman)	2003	6.036
+Nigeria	Fertility rate, total (births per woman)	2004	6.011
+Nigeria	Fertility rate, total (births per woman)	2005	5.985
+Nigeria	Fertility rate, total (births per woman)	2006	5.958
+Nigeria	Fertility rate, total (births per woman)	2007	5.93
+Nigeria	Fertility rate, total (births per woman)	2008	5.902
+Nigeria	Fertility rate, total (births per woman)	2009	5.873
+Nigeria	Fertility rate, total (births per woman)	2010	5.84
+Nigeria	Fertility rate, total (births per woman)	2011	5.802
+Nigeria	Fertility rate, total (births per woman)	2012	5.758
+Nigeria	Fertility rate, total (births per woman)	2013	5.707
+Nigeria	Fertility rate, total (births per woman)	2014	5.65
+Nigeria	Fertility rate, total (births per woman)	2015	NA
+Nigeria	GDP growth (annual %)	1960	NA
+Nigeria	GDP growth (annual %)	1961	0.191795489475993
+Nigeria	GDP growth (annual %)	1962	4.10299258913267
+Nigeria	GDP growth (annual %)	1963	8.57861892045244
+Nigeria	GDP growth (annual %)	1964	4.95048865913527
+Nigeria	GDP growth (annual %)	1965	4.88497683767599
+Nigeria	GDP growth (annual %)	1966	-4.25051418779017
+Nigeria	GDP growth (annual %)	1967	-15.7436282059309
+Nigeria	GDP growth (annual %)	1968	-1.24836024600982
+Nigeria	GDP growth (annual %)	1969	24.1973839489741
+Nigeria	GDP growth (annual %)	1970	25.0072419254014
+Nigeria	GDP growth (annual %)	1971	14.2375315597008
+Nigeria	GDP growth (annual %)	1972	3.36426203025739
+Nigeria	GDP growth (annual %)	1973	5.39276048396687
+Nigeria	GDP growth (annual %)	1974	11.160674548765
+Nigeria	GDP growth (annual %)	1975	-5.22774755857583
+Nigeria	GDP growth (annual %)	1976	9.04235173026559
+Nigeria	GDP growth (annual %)	1977	6.02411784619478
+Nigeria	GDP growth (annual %)	1978	-5.76415839249863
+Nigeria	GDP growth (annual %)	1979	6.75943093484364
+Nigeria	GDP growth (annual %)	1980	4.20483104683017
+Nigeria	GDP growth (annual %)	1981	-13.12788048507
+Nigeria	GDP growth (annual %)	1982	-1.05318605956708
+Nigeria	GDP growth (annual %)	1983	-5.05045110920774
+Nigeria	GDP growth (annual %)	1984	-2.02153756872873
+Nigeria	GDP growth (annual %)	1985	8.32282970019253
+Nigeria	GDP growth (annual %)	1986	-8.75417697942682
+Nigeria	GDP growth (annual %)	1987	-10.7517001400015
+Nigeria	GDP growth (annual %)	1988	7.54252202521535
+Nigeria	GDP growth (annual %)	1989	6.46719114422203
+Nigeria	GDP growth (annual %)	1990	12.7660091736101
+Nigeria	GDP growth (annual %)	1991	-0.617850588622787
+Nigeria	GDP growth (annual %)	1992	0.433725356726427
+Nigeria	GDP growth (annual %)	1993	2.09037780053187
+Nigeria	GDP growth (annual %)	1994	0.909763335172016
+Nigeria	GDP growth (annual %)	1995	-0.307468969258082
+Nigeria	GDP growth (annual %)	1996	4.9937055370533
+Nigeria	GDP growth (annual %)	1997	2.80225643858698
+Nigeria	GDP growth (annual %)	1998	2.71564017861093
+Nigeria	GDP growth (annual %)	1999	0.47423757536906
+Nigeria	GDP growth (annual %)	2000	5.31809338064855
+Nigeria	GDP growth (annual %)	2001	4.41106519565903
+Nigeria	GDP growth (annual %)	2002	3.78464818288238
+Nigeria	GDP growth (annual %)	2003	10.3541845645132
+Nigeria	GDP growth (annual %)	2004	33.7357750284295
+Nigeria	GDP growth (annual %)	2005	3.44466681332356
+Nigeria	GDP growth (annual %)	2006	8.2109648588917
+Nigeria	GDP growth (annual %)	2007	6.82839834798025
+Nigeria	GDP growth (annual %)	2008	6.27026369732737
+Nigeria	GDP growth (annual %)	2009	6.93441600392744
+Nigeria	GDP growth (annual %)	2010	7.83973947709083
+Nigeria	GDP growth (annual %)	2011	4.88738661141304
+Nigeria	GDP growth (annual %)	2012	4.27927731389333
+Nigeria	GDP growth (annual %)	2013	5.39441631089461
+Nigeria	GDP growth (annual %)	2014	6.30971825251392
+Nigeria	GDP growth (annual %)	2015	NA
+Nigeria	GDP per capita (constant LCU)	1960	195060.840435823
+Nigeria	GDP per capita (constant LCU)	1961	191485.359079289
+Nigeria	GDP per capita (constant LCU)	1962	195222.525857977
+Nigeria	GDP per capita (constant LCU)	1963	207518.979742963
+Nigeria	GDP per capita (constant LCU)	1964	213179.600728243
+Nigeria	GDP per capita (constant LCU)	1965	218836.762066213
+Nigeria	GDP per capita (constant LCU)	1966	205054.258223336
+Nigeria	GDP per capita (constant LCU)	1967	169043.052599104
+Nigeria	GDP per capita (constant LCU)	1968	163285.591110769
+Nigeria	GDP per capita (constant LCU)	1969	198291.469288807
+Nigeria	GDP per capita (constant LCU)	1970	242258.69450503
+Nigeria	GDP per capita (constant LCU)	1971	270382.907029158
+Nigeria	GDP per capita (constant LCU)	1972	272944.331720039
+Nigeria	GDP per capita (constant LCU)	1973	280715.343985223
+Nigeria	GDP per capita (constant LCU)	1974	304117.099161077
+Nigeria	GDP per capita (constant LCU)	1975	280471.617864745
+Nigeria	GDP per capita (constant LCU)	1976	297131.994526233
+Nigeria	GDP per capita (constant LCU)	1977	305694.184464661
+Nigeria	GDP per capita (constant LCU)	1978	279425.352441203
+Nigeria	GDP per capita (constant LCU)	1979	289536.776479095
+Nigeria	GDP per capita (constant LCU)	1980	293200.619333504
+Nigeria	GDP per capita (constant LCU)	1981	247876.905948973
+Nigeria	GDP per capita (constant LCU)	1982	238954.834794253
+Nigeria	GDP per capita (constant LCU)	1983	221196.513928234
+Nigeria	GDP per capita (constant LCU)	1984	211302.78172549
+Nigeria	GDP per capita (constant LCU)	1985	223088.312277112
+Nigeria	GDP per capita (constant LCU)	1986	198319.649518743
+Nigeria	GDP per capita (constant LCU)	1987	172402.72683798
+Nigeria	GDP per capita (constant LCU)	1988	180584.489360361
+Nigeria	GDP per capita (constant LCU)	1989	187298.500072253
+Nigeria	GDP per capita (constant LCU)	1990	205824.654016486
+Nigeria	GDP per capita (constant LCU)	1991	199405.867374643
+Nigeria	GDP per capita (constant LCU)	1992	195279.48076485
+Nigeria	GDP per capita (constant LCU)	1993	194427.759339943
+Nigeria	GDP per capita (constant LCU)	1994	191358.154083406
+Nigeria	GDP per capita (constant LCU)	1995	186068.96202329
+Nigeria	GDP per capita (constant LCU)	1996	190545.724066547
+Nigeria	GDP per capita (constant LCU)	1997	191055.151872486
+Nigeria	GDP per capita (constant LCU)	1998	191397.689511352
+Nigeria	GDP per capita (constant LCU)	1999	187546.066906669
+Nigeria	GDP per capita (constant LCU)	2000	192616.384979603
+Nigeria	GDP per capita (constant LCU)	2001	196104.407693421
+Nigeria	GDP per capita (constant LCU)	2002	198437.812203079
+Nigeria	GDP per capita (constant LCU)	2003	213475.688286156
+Nigeria	GDP per capita (constant LCU)	2004	278248.989940487
+Nigeria	GDP per capita (constant LCU)	2005	280457.088947877
+Nigeria	GDP per capita (constant LCU)	2006	295636.123787679
+Nigeria	GDP per capita (constant LCU)	2007	307593.630586723
+Nigeria	GDP per capita (constant LCU)	2008	318307.747076126
+Nigeria	GDP per capita (constant LCU)	2009	331407.657398762
+Nigeria	GDP per capita (constant LCU)	2010	347934.389631943
+Nigeria	GDP per capita (constant LCU)	2011	355255.017612464
+Nigeria	GDP per capita (constant LCU)	2012	360615.223324209
+Nigeria	GDP per capita (constant LCU)	2013	370004.249073021
+Nigeria	GDP per capita (constant LCU)	2014	383023.419292343
+Nigeria	GDP per capita (constant LCU)	2015	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1960	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1961	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1962	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1963	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1964	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1965	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1966	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1967	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1968	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1969	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1970	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1971	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1972	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1973	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1974	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1975	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1976	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1977	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1978	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1979	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1980	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1981	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1982	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1983	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1984	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1985	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1986	4.40000009536743
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1987	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1988	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1989	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1990	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1991	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1992	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1993	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1994	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1995	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1996	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1997	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1998	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	1999	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2000	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2001	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2002	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2003	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2004	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2005	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2006	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2007	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2008	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2009	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2010	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2011	NA
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2012	8
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2013	8.30000019073486
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2014	5.69999980926514
+Nigeria	Unemployment, female (% of female labor force) (national estimate)	2015	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1960	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1961	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1962	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1963	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1964	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1965	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1966	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1967	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1968	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1969	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1970	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1971	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1972	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1973	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1974	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1975	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1976	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1977	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1978	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1979	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1980	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1981	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1982	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1983	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1984	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1985	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1986	3.70000004768372
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1987	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1988	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1989	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1990	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1991	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1992	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1993	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1994	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1995	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1996	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1997	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1998	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	1999	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2000	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2001	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2002	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2003	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2004	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2005	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2006	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2007	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2008	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2009	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2010	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2011	NA
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2012	7.09999990463257
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2013	5.90000009536743
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2014	4.09999990463257
+Nigeria	Unemployment, male (% of male labor force) (national estimate)	2015	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1960	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1961	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1962	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1963	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1964	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1965	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1966	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1967	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1968	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1969	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1970	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1971	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1972	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1973	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1974	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1975	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1976	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1977	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1978	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1979	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1980	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1981	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1982	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1983	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1984	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1985	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1986	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1987	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1988	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1989	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1990	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1991	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1992	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1993	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1994	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1995	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1996	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1997	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1998	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	1999	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2000	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2001	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2002	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2003	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2004	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2005	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2006	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2007	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2008	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2009	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2010	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2011	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2012	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2013	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2014	NA
+Nigeria	Long-term unemployment, female (% of female unemployment)	2015	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1960	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1961	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1962	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1963	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1964	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1965	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1966	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1967	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1968	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1969	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1970	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1971	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1972	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1973	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1974	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1975	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1976	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1977	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1978	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1979	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1980	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1981	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1982	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1983	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1984	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1985	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1986	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1987	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1988	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1989	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1990	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1991	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1992	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1993	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1994	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1995	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1996	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1997	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1998	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	1999	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2000	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2001	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2002	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2003	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2004	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2005	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2006	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2007	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2008	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2009	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2010	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2011	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2012	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2013	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2014	NA
+Nigeria	Long-term unemployment, male (% of male unemployment)	2015	NA			

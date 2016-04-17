@@ -1,0 +1,337 @@
+﻿Country Name	Series Name	Time	Value
+Pakistan	Birth rate, crude (per 1,000 people)	1960	44.184
+Pakistan	Birth rate, crude (per 1,000 people)	1961	44.256
+Pakistan	Birth rate, crude (per 1,000 people)	1962	44.28
+Pakistan	Birth rate, crude (per 1,000 people)	1963	44.259
+Pakistan	Birth rate, crude (per 1,000 people)	1964	44.196
+Pakistan	Birth rate, crude (per 1,000 people)	1965	44.09
+Pakistan	Birth rate, crude (per 1,000 people)	1966	43.943
+Pakistan	Birth rate, crude (per 1,000 people)	1967	43.76
+Pakistan	Birth rate, crude (per 1,000 people)	1968	43.552
+Pakistan	Birth rate, crude (per 1,000 people)	1969	43.329
+Pakistan	Birth rate, crude (per 1,000 people)	1970	43.108
+Pakistan	Birth rate, crude (per 1,000 people)	1971	42.903
+Pakistan	Birth rate, crude (per 1,000 people)	1972	42.722
+Pakistan	Birth rate, crude (per 1,000 people)	1973	42.572
+Pakistan	Birth rate, crude (per 1,000 people)	1974	42.456
+Pakistan	Birth rate, crude (per 1,000 people)	1975	42.374
+Pakistan	Birth rate, crude (per 1,000 people)	1976	42.32
+Pakistan	Birth rate, crude (per 1,000 people)	1977	42.283
+Pakistan	Birth rate, crude (per 1,000 people)	1978	42.252
+Pakistan	Birth rate, crude (per 1,000 people)	1979	42.223
+Pakistan	Birth rate, crude (per 1,000 people)	1980	42.204
+Pakistan	Birth rate, crude (per 1,000 people)	1981	42.211
+Pakistan	Birth rate, crude (per 1,000 people)	1982	42.243
+Pakistan	Birth rate, crude (per 1,000 people)	1983	42.29
+Pakistan	Birth rate, crude (per 1,000 people)	1984	42.328
+Pakistan	Birth rate, crude (per 1,000 people)	1985	42.315
+Pakistan	Birth rate, crude (per 1,000 people)	1986	42.204
+Pakistan	Birth rate, crude (per 1,000 people)	1987	41.963
+Pakistan	Birth rate, crude (per 1,000 people)	1988	41.576
+Pakistan	Birth rate, crude (per 1,000 people)	1989	41.041
+Pakistan	Birth rate, crude (per 1,000 people)	1990	40.374
+Pakistan	Birth rate, crude (per 1,000 people)	1991	39.604
+Pakistan	Birth rate, crude (per 1,000 people)	1992	38.779
+Pakistan	Birth rate, crude (per 1,000 people)	1993	37.94
+Pakistan	Birth rate, crude (per 1,000 people)	1994	37.108
+Pakistan	Birth rate, crude (per 1,000 people)	1995	36.282
+Pakistan	Birth rate, crude (per 1,000 people)	1996	35.447
+Pakistan	Birth rate, crude (per 1,000 people)	1997	34.587
+Pakistan	Birth rate, crude (per 1,000 people)	1998	33.709
+Pakistan	Birth rate, crude (per 1,000 people)	1999	32.836
+Pakistan	Birth rate, crude (per 1,000 people)	2000	32.018
+Pakistan	Birth rate, crude (per 1,000 people)	2001	31.311
+Pakistan	Birth rate, crude (per 1,000 people)	2002	30.749
+Pakistan	Birth rate, crude (per 1,000 people)	2003	30.352
+Pakistan	Birth rate, crude (per 1,000 people)	2004	30.115
+Pakistan	Birth rate, crude (per 1,000 people)	2005	30.023
+Pakistan	Birth rate, crude (per 1,000 people)	2006	30.041
+Pakistan	Birth rate, crude (per 1,000 people)	2007	30.111
+Pakistan	Birth rate, crude (per 1,000 people)	2008	30.178
+Pakistan	Birth rate, crude (per 1,000 people)	2009	30.208
+Pakistan	Birth rate, crude (per 1,000 people)	2010	30.17
+Pakistan	Birth rate, crude (per 1,000 people)	2011	30.047
+Pakistan	Birth rate, crude (per 1,000 people)	2012	29.848
+Pakistan	Birth rate, crude (per 1,000 people)	2013	29.582
+Pakistan	Birth rate, crude (per 1,000 people)	2014	29.247
+Pakistan	Birth rate, crude (per 1,000 people)	2015	NA
+Pakistan	Fertility rate, total (births per woman)	1960	6.6
+Pakistan	Fertility rate, total (births per woman)	1961	6.6
+Pakistan	Fertility rate, total (births per woman)	1962	6.6
+Pakistan	Fertility rate, total (births per woman)	1963	6.6
+Pakistan	Fertility rate, total (births per woman)	1964	6.6
+Pakistan	Fertility rate, total (births per woman)	1965	6.6
+Pakistan	Fertility rate, total (births per woman)	1966	6.6
+Pakistan	Fertility rate, total (births per woman)	1967	6.6
+Pakistan	Fertility rate, total (births per woman)	1968	6.6
+Pakistan	Fertility rate, total (births per woman)	1969	6.6
+Pakistan	Fertility rate, total (births per woman)	1970	6.601
+Pakistan	Fertility rate, total (births per woman)	1971	6.602
+Pakistan	Fertility rate, total (births per woman)	1972	6.605
+Pakistan	Fertility rate, total (births per woman)	1973	6.608
+Pakistan	Fertility rate, total (births per woman)	1974	6.611
+Pakistan	Fertility rate, total (births per woman)	1975	6.612
+Pakistan	Fertility rate, total (births per woman)	1976	6.608
+Pakistan	Fertility rate, total (births per woman)	1977	6.599
+Pakistan	Fertility rate, total (births per woman)	1978	6.583
+Pakistan	Fertility rate, total (births per woman)	1979	6.561
+Pakistan	Fertility rate, total (births per woman)	1980	6.535
+Pakistan	Fertility rate, total (births per woman)	1981	6.508
+Pakistan	Fertility rate, total (births per woman)	1982	6.483
+Pakistan	Fertility rate, total (births per woman)	1983	6.46
+Pakistan	Fertility rate, total (births per woman)	1984	6.436
+Pakistan	Fertility rate, total (births per woman)	1985	6.407
+Pakistan	Fertility rate, total (births per woman)	1986	6.367
+Pakistan	Fertility rate, total (births per woman)	1987	6.31
+Pakistan	Fertility rate, total (births per woman)	1988	6.234
+Pakistan	Fertility rate, total (births per woman)	1989	6.138
+Pakistan	Fertility rate, total (births per woman)	1990	6.024
+Pakistan	Fertility rate, total (births per woman)	1991	5.896
+Pakistan	Fertility rate, total (births per woman)	1992	5.76
+Pakistan	Fertility rate, total (births per woman)	1993	5.622
+Pakistan	Fertility rate, total (births per woman)	1994	5.482
+Pakistan	Fertility rate, total (births per woman)	1995	5.342
+Pakistan	Fertility rate, total (births per woman)	1996	5.198
+Pakistan	Fertility rate, total (births per woman)	1997	5.048
+Pakistan	Fertility rate, total (births per woman)	1998	4.892
+Pakistan	Fertility rate, total (births per woman)	1999	4.733
+Pakistan	Fertility rate, total (births per woman)	2000	4.58
+Pakistan	Fertility rate, total (births per woman)	2001	4.438
+Pakistan	Fertility rate, total (births per woman)	2002	4.314
+Pakistan	Fertility rate, total (births per woman)	2003	4.211
+Pakistan	Fertility rate, total (births per woman)	2004	4.129
+Pakistan	Fertility rate, total (births per woman)	2005	4.067
+Pakistan	Fertility rate, total (births per woman)	2006	4.02
+Pakistan	Fertility rate, total (births per woman)	2007	3.98
+Pakistan	Fertility rate, total (births per woman)	2008	3.942
+Pakistan	Fertility rate, total (births per woman)	2009	3.901
+Pakistan	Fertility rate, total (births per woman)	2010	3.855
+Pakistan	Fertility rate, total (births per woman)	2011	3.802
+Pakistan	Fertility rate, total (births per woman)	2012	3.744
+Pakistan	Fertility rate, total (births per woman)	2013	3.682
+Pakistan	Fertility rate, total (births per woman)	2014	3.617
+Pakistan	Fertility rate, total (births per woman)	2015	NA
+Pakistan	GDP growth (annual %)	1960	NA
+Pakistan	GDP growth (annual %)	1961	5.98734641929046
+Pakistan	GDP growth (annual %)	1962	4.48285862746644
+Pakistan	GDP growth (annual %)	1963	8.68883151825305
+Pakistan	GDP growth (annual %)	1964	7.56975744905721
+Pakistan	GDP growth (annual %)	1965	10.419365822013
+Pakistan	GDP growth (annual %)	1966	5.78995180143455
+Pakistan	GDP growth (annual %)	1967	5.40061259720773
+Pakistan	GDP growth (annual %)	1968	7.23322092500283
+Pakistan	GDP growth (annual %)	1969	5.5078996342873
+Pakistan	GDP growth (annual %)	1970	11.3534617181882
+Pakistan	GDP growth (annual %)	1971	0.468372548504419
+Pakistan	GDP growth (annual %)	1972	0.813406404583034
+Pakistan	GDP growth (annual %)	1973	7.06426385694034
+Pakistan	GDP growth (annual %)	1974	3.54019171279791
+Pakistan	GDP growth (annual %)	1975	4.21141563147363
+Pakistan	GDP growth (annual %)	1976	5.15618958985225
+Pakistan	GDP growth (annual %)	1977	3.94769828741481
+Pakistan	GDP growth (annual %)	1978	8.04853361937357
+Pakistan	GDP growth (annual %)	1979	3.75843556853272
+Pakistan	GDP growth (annual %)	1980	10.2157040372709
+Pakistan	GDP growth (annual %)	1981	7.92076357199736
+Pakistan	GDP growth (annual %)	1982	6.53748679998569
+Pakistan	GDP growth (annual %)	1983	6.77837833870629
+Pakistan	GDP growth (annual %)	1984	5.06520560475867
+Pakistan	GDP growth (annual %)	1985	7.59211469875589
+Pakistan	GDP growth (annual %)	1986	5.50165366386091
+Pakistan	GDP growth (annual %)	1987	6.45234302467672
+Pakistan	GDP growth (annual %)	1988	7.6252787795907
+Pakistan	GDP growth (annual %)	1989	4.95976889440846
+Pakistan	GDP growth (annual %)	1990	4.45858681509816
+Pakistan	GDP growth (annual %)	1991	5.06156775497072
+Pakistan	GDP growth (annual %)	1992	7.70589782310797
+Pakistan	GDP growth (annual %)	1993	1.75774769734467
+Pakistan	GDP growth (annual %)	1994	3.73741555244789
+Pakistan	GDP growth (annual %)	1995	4.96260915003212
+Pakistan	GDP growth (annual %)	1996	4.84658128374571
+Pakistan	GDP growth (annual %)	1997	1.0143960141849
+Pakistan	GDP growth (annual %)	1998	2.55023429463535
+Pakistan	GDP growth (annual %)	1999	3.66013274390127
+Pakistan	GDP growth (annual %)	2000	4.26008801156799
+Pakistan	GDP growth (annual %)	2001	1.98248403238117
+Pakistan	GDP growth (annual %)	2002	3.224429972602
+Pakistan	GDP growth (annual %)	2003	4.84632093539447
+Pakistan	GDP growth (annual %)	2004	7.36857135930246
+Pakistan	GDP growth (annual %)	2005	7.66730427146116
+Pakistan	GDP growth (annual %)	2006	6.17754203617736
+Pakistan	GDP growth (annual %)	2007	4.83281727717085
+Pakistan	GDP growth (annual %)	2008	1.7014054654513
+Pakistan	GDP growth (annual %)	2009	2.83165851919991
+Pakistan	GDP growth (annual %)	2010	1.60669195949077
+Pakistan	GDP growth (annual %)	2011	2.74840254954
+Pakistan	GDP growth (annual %)	2012	3.50703342009689
+Pakistan	GDP growth (annual %)	2013	4.36724945081146
+Pakistan	GDP growth (annual %)	2014	4.73835494419686
+Pakistan	GDP growth (annual %)	2015	NA
+Pakistan	GDP per capita (constant LCU)	1960	15719.0224397547
+Pakistan	GDP per capita (constant LCU)	1961	16270.1428839291
+Pakistan	GDP per capita (constant LCU)	1962	16590.2473787125
+Pakistan	GDP per capita (constant LCU)	1963	17587.6201729029
+Pakistan	GDP per capita (constant LCU)	1964	18444.5748594625
+Pakistan	GDP per capita (constant LCU)	1965	19848.3779029092
+Pakistan	GDP per capita (constant LCU)	1966	20456.1603417087
+Pakistan	GDP per capita (constant LCU)	1967	20997.7756519356
+Pakistan	GDP per capita (constant LCU)	1968	21922.8729472789
+Pakistan	GDP per capita (constant LCU)	1969	22516.7700416391
+Pakistan	GDP per capita (constant LCU)	1970	24404.9573676316
+Pakistan	GDP per capita (constant LCU)	1971	23863.5752874911
+Pakistan	GDP per capita (constant LCU)	1972	23410.2536930488
+Pakistan	GDP per capita (constant LCU)	1973	24380.026164325
+Pakistan	GDP per capita (constant LCU)	1974	24538.2493677523
+Pakistan	GDP per capita (constant LCU)	1975	24837.4154548058
+Pakistan	GDP per capita (constant LCU)	1976	25348.7993768417
+Pakistan	GDP per capita (constant LCU)	1977	25556.5232841657
+Pakistan	GDP per capita (constant LCU)	1978	26764.6050677471
+Pakistan	GDP per capita (constant LCU)	1979	26898.9786199401
+Pakistan	GDP per capita (constant LCU)	1980	28699.0714902288
+Pakistan	GDP per capita (constant LCU)	1981	29966.719377994
+Pakistan	GDP per capita (constant LCU)	1982	30878.8540644897
+Pakistan	GDP per capita (constant LCU)	1983	31887.5477120568
+Pakistan	GDP per capita (constant LCU)	1984	32406.333950337
+Pakistan	GDP per capita (constant LCU)	1985	33738.5850267669
+Pakistan	GDP per capita (constant LCU)	1986	34457.4375693048
+Pakistan	GDP per capita (constant LCU)	1987	35526.0477924648
+Pakistan	GDP per capita (constant LCU)	1988	37059.1100704391
+Pakistan	GDP per capita (constant LCU)	1989	37739.9249516092
+Pakistan	GDP per capita (constant LCU)	1990	38295.336375701
+Pakistan	GDP per capita (constant LCU)	1991	39132.9589660445
+Pakistan	GDP per capita (constant LCU)	1992	41042.3507711249
+Pakistan	GDP per capita (constant LCU)	1993	40702.1415263845
+Pakistan	GDP per capita (constant LCU)	1994	41169.1089932938
+Pakistan	GDP per capita (constant LCU)	1995	42142.5004736347
+Pakistan	GDP per capita (constant LCU)	1996	43096.0030899861
+Pakistan	GDP per capita (constant LCU)	1997	42469.5368247159
+Pakistan	GDP per capita (constant LCU)	1998	42507.4591640806
+Pakistan	GDP per capita (constant LCU)	1999	43038.1568191546
+Pakistan	GDP per capita (constant LCU)	2000	43867.9421295637
+Pakistan	GDP per capita (constant LCU)	2001	43777.6502124894
+Pakistan	GDP per capita (constant LCU)	2002	44252.8458549004
+Pakistan	GDP per capita (constant LCU)	2003	45458.5303100076
+Pakistan	GDP per capita (constant LCU)	2004	47828.4059534463
+Pakistan	GDP per capita (constant LCU)	2005	50458.5032323043
+Pakistan	GDP per capita (constant LCU)	2006	52491.3117422381
+Pakistan	GDP per capita (constant LCU)	2007	53910.9814406008
+Pakistan	GDP per capita (constant LCU)	2008	53709.012462738
+Pakistan	GDP per capita (constant LCU)	2009	54094.2338780212
+Pakistan	GDP per capita (constant LCU)	2010	53824.6419375023
+Pakistan	GDP per capita (constant LCU)	2011	54149.3698426797
+Pakistan	GDP per capita (constant LCU)	2012	54872.221814964
+Pakistan	GDP per capita (constant LCU)	2013	56067.4576163538
+Pakistan	GDP per capita (constant LCU)	2014	57501.8079726061
+Pakistan	GDP per capita (constant LCU)	2015	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1960	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1961	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1962	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1963	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1964	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1965	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1966	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1967	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1968	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1969	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1970	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1971	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1972	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1973	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1974	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1975	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1976	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1977	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1978	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1979	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1980	14
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1981	7.30000019073486
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1982	7.40000009536743
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1983	2
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1984	1.79999995231628
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1985	1.39999997615814
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1986	1.70000004768372
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1987	1.10000002384186
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1988	0.699999988079071
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1989	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1990	0.699999988079071
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1991	16.2999992370605
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1992	14
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1993	9.89999961853027
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1994	9.10000038146973
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1995	14
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1996	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1997	17.1000003814697
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1998	15
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	1999	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2000	15.8000001907349
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2001	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2002	16.3999996185303
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2003	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2004	13
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2005	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2006	9.60000038146973
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2007	8.60000038146973
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2008	8.69999980926514
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2009	9.10000038146973
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2010	9.19999980926514
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2011	9
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2012	NA
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2013	9.10000038146973
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2014	8.89999961853027
+Pakistan	Unemployment, female (% of female labor force) (national estimate)	2015	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1960	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1961	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1962	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1963	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1964	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1965	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1966	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1967	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1968	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1969	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1970	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1971	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1972	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1973	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1974	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1975	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1976	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1977	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1978	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1979	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1980	2.90000009536743
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1981	2.90000009536743
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1982	2.90000009536743
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1983	4.19999980926514
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1984	4
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1985	3.79999995231628
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1986	3.79999995231628
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1987	3.29999995231628
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1988	2.90000009536743
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1989	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1990	2.79999995231628
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1991	4.19999980926514
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1992	3.79999995231628
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1993	3.40000009536743
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1994	3.40000009536743
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1995	3.70000004768372
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1996	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1997	3.90000009536743
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1998	4.09999990463257
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	1999	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2000	5.5
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2001	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2002	6.19999980926514
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2003	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2004	6.19999980926514
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2005	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2006	5.19999980926514
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2007	4.19999980926514
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2008	4
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2009	4.19999980926514
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2010	4.09999990463257
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2011	4.80000019073486
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2012	NA
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2013	5.09999990463257
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2014	4.59999990463257
+Pakistan	Unemployment, male (% of male labor force) (national estimate)	2015	NA	
